@@ -59,6 +59,10 @@ Original dataset: [Hotel Booking Demand Dataset on Kaggle](https://www.kaggle.co
 
 For questions or collaboration, feel free to reach out via GitHub or LinkedIn.
 
+- [LinkedIn](https://www.linkedin.com/in/sohaibhassan015)
+- [GitHub](https://github.com/sohaib015)
+
+
 ---
 
 ## ✅ License
