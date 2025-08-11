@@ -1,2 +1,2 @@
 # Hotel_Booking_Analysis_SQL
-SQL project analyzing hotel booking data from Kaggle, including data cleaning, exploratory data analysis, and visualizations in Excel.
+A comprehensive data analysis project on hotel bookings using SQL and Excel. Includes data cleaning, exploratory analysis, and visual insights extracted from a Kaggle dataset.
