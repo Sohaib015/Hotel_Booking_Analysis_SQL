@@ -19,8 +19,7 @@ An end-to-end workflow was built in MySQL Workbench. The raw Kaggle dataset was 
 
 ![Commulative Hotel Booking Over Time](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Commulative%20Hotel%20Booking%20Over%20Time.PNG)
 
-![Impact Of Lead Time On Cancellations]
-(https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Impact%20Of%20Lead%20Time%20On%20Cancellations.PNG)
+![Impact Of Lead Time On Cancellations](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Impact%20Of%20Lead%20Time%20On%20Cancellations.PNG)
 
 ![Month Over Month Booking Growth](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Month%20over%20Month%20Booking%20Growth.PNG)
 
