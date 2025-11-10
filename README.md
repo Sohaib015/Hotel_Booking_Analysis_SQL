@@ -14,11 +14,18 @@ An end-to-end workflow was built in MySQL Workbench. The raw Kaggle dataset was 
 
 ## Visualisations 
 ![Average Stay Duration](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Average%20Stay%20Duration%20By%20Hotel.PNG)
+
 ![Cancellation Rate By Month](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Cancellation%20Rate%20By%20Month.PNG)
+
 ![Commulative Hotel Booking Over Time](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Commulative%20Hotel%20Booking%20Over%20Time.PNG)
-![Impact Of Lead Time On Cancellations](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Impact%20Of%20Lead%20Time%20On%20Cancellations.PNG)
+
+![Impact Of Lead Time On Cancellations]
+(https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Impact%20Of%20Lead%20Time%20On%20Cancellations.PNG)
+
 ![Month Over Month Booking Growth](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Month%20over%20Month%20Booking%20Growth.PNG)
+
 ![Top 10 Countries by Booking](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Top%2010%20Countries%20By%20Booking.PNG)
+
 ![Total Bookings By Hotel](https://github.com/Sohaib015/Hotel_Booking_Analysis_SQL/blob/main/Hotel%20Booking%20Analysis%20SQL%20Project/Visualisations/Total%20Bookings%20by%20Hotel.PNG)
 
 ## Skills and Tools
